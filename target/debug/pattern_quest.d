@@ -1,0 +1,1 @@
+/home/abdullah/Desktop/Learning-Rust/pattern_quest/target/debug/pattern_quest: /home/abdullah/Desktop/Learning-Rust/pattern_quest/src/lib.rs /home/abdullah/Desktop/Learning-Rust/pattern_quest/src/main.rs
